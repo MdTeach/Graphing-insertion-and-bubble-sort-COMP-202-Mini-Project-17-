@@ -1,5 +1,5 @@
 <h1>COMP 202: Data Structures and Algorithms</h1>
-<p>Working link found at: <a href="https://mdteach.github.io/Graphing-insertion-and-bubble-sort-COMP-202-Mini-Project-17-/"></a>
+<p>Working link found at: <a href="https://mdteach.github.io/Graphing-insertion-and-bubble-sort-COMP-202-Mini-Project-17-/">here</a>
 </p>
 
 </p>
